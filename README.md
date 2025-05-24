@@ -6,17 +6,17 @@ It demonstrates how to build a lightweight data pipeline using only Kotlin — f
 
 ---
 
-## 📌 Project Overview
+**Project Overview**
 
 This pipeline includes:
 
-- 📡 **Data Extraction**: Fetches population data by state from the IBGE API.
-- 🧹 **Data Transformation**: Parses and structures the data into a clean format.
-- 💾 **Data Load**: Saves the data locally as a CSV file for further analysis or reporting.
+- **Data Extraction**: Fetches population data by state from the IBGE API.
+- **Data Transformation**: Parses and structures the data into a clean format.
+- **Data Load**: Saves the data locally as a CSV file for further analysis or reporting.
 
 ---
 
-## 🛠 Tech Stack
+**Tech Stack**
 
 - **Kotlin** (JVM)
 - **Standard Library I/O**
@@ -25,7 +25,7 @@ This pipeline includes:
 
 ---
 
-## 📁 Project Structure
+**Project Structure**
 
 ```
 kotlin-data-pipeline/
@@ -44,7 +44,7 @@ kotlin-data-pipeline/
 
 ---
 
-## 🚀 How to Run
+**How to Run**
 
 Clone the project and run it using Gradle:
 
@@ -60,7 +60,7 @@ data/population_ibge.csv
 
 ---
 
-## 📈 Example Output
+**Example Output**
 
 ```csv
 State,Population
@@ -72,12 +72,12 @@ Rio de Janeiro,17000000
 
 ---
 
-## ❓ Why Kotlin?
+**Why Kotlin?**
 
-- ✅ Modern, concise, and safe syntax
-- 🔗 Fully interoperable with the JVM and Java ecosystem
-- 🚀 Ideal for scalable pipelines and microservices
-- 🧠 A unique portfolio differentiator in a Python-dominant field
+- Modern, concise, and safe syntax
+- Fully interoperable with the JVM and Java ecosystem
+- Ideal for scalable pipelines and microservices
+- A unique portfolio differentiator in a Python-dominant field
 
 ---
 
